@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "164EBF63-D740-4ABE-9EAF-F50BFB645CFB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8E4AC94-424E-4864-B072-4A50481DC053"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "821F1FC4-19DB-4545-A8D8-9FE7EAA0E720"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0740FBD-F5E3-41D4-8D97-3A832A38A630"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4721C70D-377A-40A6-8888-7FBFDC75A250"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4721C70D-377A-40A6-8888-7FBFDC75A250 - f82e3e7239802395"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "4721C70D-377A-40A6-8888-7FBFDC75A250 - f82e3e72398023d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "4721C70D-377A-40A6-8888-7FBFDC75A250 - f82e3e72398023b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E39CF164-4735-4F61-95FE-A82E2607A30B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F274F44D-0C73-4D55-803F-8D398816086A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F274F44D-0C73-4D55-803F-8D398816086A - f82e3e723980209d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "F274F44D-0C73-4D55-803F-8D398816086A - f82e3e723980209d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5242832-DF9C-4812-9C6E-2CEC4022080B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5242832-DF9C-4812-9C6E-2CEC4022080B - f82e3e7239802330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "A5242832-DF9C-4812-9C6E-2CEC4022080B - f82e3e7239802330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "A5242832-DF9C-4812-9C6E-2CEC4022080B - f82e3e7239802311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D61618E-40D6-4FB3-88E8-AD474C0F9815"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D61618E-40D6-4FB3-88E8-AD474C0F9815 - f82e3e723980209d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "6D61618E-40D6-4FB3-88E8-AD474C0F9815 - f82e3e723980209d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "6D61618E-40D6-4FB3-88E8-AD474C0F9815 - f82e3e7239802372"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;ApplyDigital.PostListModel, Swift.Error&gt;) -&gt; () in ApplyDigital.PostRepositoryRemote.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/Repository/Remote/PostRepositoryRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getPostList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC - beddb07c6c6bc8cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ApplyDigital.PostDataManager.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC - cf5ef2c2f5c488f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for ApplyDigital.PostDataManager.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC - e136593790b95f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for ApplyDigital.PostDataManager.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC - e136593790b950c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for ApplyDigital.PostDataManager.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC - 1d1f7696767e7ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(11) suspend resume partial function for ApplyDigital.PostDataManager.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5D3D5165-C427-4405-BC65-8A770A1244CC - 1d1f7696767e7509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(11) suspend resume partial function for ApplyDigital.PostDataManager.getPostList() async throws -&gt; ApplyDigital.PostListModel"
+                  moduleName = "ApplyDigital"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jossephcolonia/Projects/ApplyDigital/ApplyDigital/Data/DataManager/PostDataManagerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
